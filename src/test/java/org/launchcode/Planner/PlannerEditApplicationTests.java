@@ -1,10 +1,10 @@
-package org.launchcode.hellospring;
+package org.launchcode.Planner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloSpringApplicationTests {
+class PlannerEditApplicationTests {
 
 	@Test
 	void contextLoads() {
